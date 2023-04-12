@@ -489,7 +489,7 @@ body{
     height: 1px;
     max-width:100%;
     border: 1px solid hsl( var(--clr-light-gray) / 1);
-    background-color: hsl(var(--clr-green));
+    /* background-color: hsl(var(--clr-green)); */
     border-top: 0;
     margin-bottom: 40px;
     margin-top: 40px;
